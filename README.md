@@ -1,5 +1,7 @@
 # SeoulBikes
 
+![alt text](https://github.com/tffnyzhng/SeoulBikes/blob/main/images_readme/image_velo.jpg?raw=true)
+
 Il est important de rendre le vélo de location disponible et accessible au public, car il offre de nombreuses alternatives aux navetteurs dans les métropoles. Il y a beaucoup d'avantages à louer un vélo, c'est pratique car cela permet de ne pas garder le vélo toute la journée, que ce soit au travail ou à l'école. De plus, c'est le moyen de transport le plus sain et il présente des avantages pour l'environnement.
 
 **Comment nous est-il possible d’anticiper la demande du nombre de vélos loués en fonction des conditions météorologiques?**
@@ -23,6 +25,7 @@ Cette étude contient donc
 - une présentation PowerPoint de l’étude 
 - et les fichiers nécessaires à la transformation de notre model en une API Flask
  
+![alt text](https://github.com/tffnyzhng/SeoulBikes/blob/main/images_readme/image_api.jpg?raw=true)
 
 ## Conclusion
 Cette étude sur les vélos loués à Séoul a permis de répondre à la problématique en choisissant un modèle approprié pour l’anticipation de la demande du nombre de vélos loués en fonction des conditions météorologiques. Le Random Forest est finalement le modèle sélectionné résoudre notre problème et qu’on déploiera sous forme d’API.
